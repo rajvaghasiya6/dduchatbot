@@ -232,10 +232,10 @@ opacity: 0
     width: 310px;
 }
 .msger-chat {
-    height: 250px;
+    height: 300px;
     }
 .msg-bubble {
-        max-width: 250px;
+        max-width: 215px;
         font-size: 12px;
     
 }
